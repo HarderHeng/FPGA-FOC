@@ -38,6 +38,7 @@ The code in this repository has detailed comments (in Chinese). If you are famil
 - [RTL simulation](#en3)
   - [simulate clark_tr and park_tr](#en31)
   - [simulate cartesian2polar and svpwm](#en32)
+- [Porting: Tang Nano 9K + DRV8323](./docs/tang-nano-9k-drv8323.md)
 
 　
 
@@ -298,6 +299,7 @@ Interpretation of **Figure5** waveform:
   - [clark_tr和park_tr子模块的仿真](#clark_tr和park_tr的仿真)
   - [cartesian2polar和svpwm子模块的仿真](#cartesian2polar和svpwm的仿真)
 - [FAQ](#FAQ)
+- [Tang Nano 9K + DRV8323 移植](./docs/tang-nano-9k-drv8323.md)
 
 　
 
